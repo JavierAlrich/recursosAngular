@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+h3{
+    Color: #767676;
+    font-size: 16px;
+    margin-bottom: 25px !important;
+}
+
+.main-container{
+    margin-top: 40px;
+}
